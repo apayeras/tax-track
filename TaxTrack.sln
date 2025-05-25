@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxTrack", "src\TaxTrack\Ta
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DD3D2134-CA72-4528-85E1-C6D1F308EF20}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{D485F1DA-8E62-4088-876F-6554A2243DB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxTrack.Tests.Unit", "tests\TaxTrack.Tests.Unit\TaxTrack.Tests.Unit.csproj", "{3A79AAC4-5EE6-48C3-BB38-746E463358BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,8 +18,13 @@ Global
 		{E60791F1-2224-4185-98E7-B6CBA40F37A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E60791F1-2224-4185-98E7-B6CBA40F37A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E60791F1-2224-4185-98E7-B6CBA40F37A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A79AAC4-5EE6-48C3-BB38-746E463358BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A79AAC4-5EE6-48C3-BB38-746E463358BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A79AAC4-5EE6-48C3-BB38-746E463358BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A79AAC4-5EE6-48C3-BB38-746E463358BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E60791F1-2224-4185-98E7-B6CBA40F37A5} = {DD3D2134-CA72-4528-85E1-C6D1F308EF20}
+		{3A79AAC4-5EE6-48C3-BB38-746E463358BD} = {D485F1DA-8E62-4088-876F-6554A2243DB1}
 	EndGlobalSection
 EndGlobal
