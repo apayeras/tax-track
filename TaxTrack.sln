@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxTrack", "src\TaxTrack\TaxTrack.csproj", "{E60791F1-2224-4185-98E7-B6CBA40F37A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DD3D2134-CA72-4528-85E1-C6D1F308EF20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E60791F1-2224-4185-98E7-B6CBA40F37A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60791F1-2224-4185-98E7-B6CBA40F37A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60791F1-2224-4185-98E7-B6CBA40F37A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60791F1-2224-4185-98E7-B6CBA40F37A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E60791F1-2224-4185-98E7-B6CBA40F37A5} = {DD3D2134-CA72-4528-85E1-C6D1F308EF20}
+	EndGlobalSection
+EndGlobal
